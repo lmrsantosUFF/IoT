@@ -5,7 +5,7 @@ Comando para iniciar o servidor, sendo: <br>
 argv[1] o endereço do host,  <br>
 argv[2] o número da porta. <br>
  <br>
-python servidor.py 127.0.0.1 5683 <br>
+<b>python servidor.py 127.0.0.1 5683</b> <br>
  <br> <br> <br>
 
 
@@ -16,4 +16,4 @@ argv[3] o número do LED pretendido, <br>
 argv[4] o novo limiar de temperatura, <br>
 argv[5] o novo limiar de pressão. <br> <br>
 
-python clientes.py 127.0.0.1 5683 63 10 700
+<b>python clientes.py 127.0.0.1 5683 1 50 700</b>
