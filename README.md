@@ -1,7 +1,8 @@
 # Exercicio3IoT
  <br> <br>
 
-<h3>Comando para iniciar o servidor, sendo: </h3><br>
+<h3>Comando para iniciar o servidor </h3><br>
+Sendo:
 argv[1] o endereço do host,  <br>
 argv[2] o número da porta. <br>
  <br>
@@ -9,7 +10,8 @@ argv[2] o número da porta. <br>
  <br> <br> <br>
 
 
-<h3>Comando para iniciar um cliente, sendo: </h3><br>
+<h3>Comando para iniciar um cliente </h3><br>
+Sendo:
 argv[1] o endereço do host,  <br>
 argv[2] o número da porta, <br>
 argv[3] o número do LED pretendido, <br>
