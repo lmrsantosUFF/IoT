@@ -1,7 +1,7 @@
 # Exercicio3IoT
 
 
-Comando para iniciar o servidor, sendo:
+Comando para iniciar o servidor, sendo: <br>
 argv[1] o endereço do host, 
 argv[2] o número da porta.
 
