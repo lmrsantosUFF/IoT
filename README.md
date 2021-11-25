@@ -1,6 +1,14 @@
 # Exercicio3IoT
  <br> <br>
 
+This small project simulates an IoT application that deals with sensors (temperature and pressure) and actuators (LEDs, on a SenseHat board embedded on Raspbian OS of Raspberry Pi). The sensors are distributed through different clients, which communicate with the server via CoAP , a protocol that suits well IoT and edge computing devices. <br> <br>
+Part of the documentation is written in Portuguese.
+
+
+Communication 
+
+<br> <br>
+
 <h3>Comando para iniciar o servidor </h3><br>
 Sendo:<br>
 argv[1] o endereço do host,  <br>
