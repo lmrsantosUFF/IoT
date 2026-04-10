@@ -23,3 +23,4 @@ try:
 except:
     print ("problema na comunicacao do cliente")
     sys.exit()
+
